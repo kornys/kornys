@@ -12,6 +12,12 @@ Date | Title
 2022-01-29 | [Promote Strimzi to prod with ArgoCd and Tekton](https://www.youtube.com/watch?v=oLAYig0zQgw)
 2021-01-29 | [CI tools](https://www.youtube.com/watch?v=MSzT4G_-Cf8)
 
+### Blog posts
+Date | Title
+-----|-----
+2023-06-23 | [How to use Testing Farm outside of RHEL](https://fedoramagazine.org/how-to-use-testing-farm-outside-of-rhel/)
+2021-04-19 | [Connect Red Hat AMQ Streams to your Red Hat OpenShift 4 monitoring stack](https://developers.redhat.com/blog/2021/04/19/connect-amq-streams-to-your-red-hat-openshift-4-monitoring-stack)
+
 <!--
 **kornys/kornys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
