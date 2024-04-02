@@ -1,5 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/david-kornel/)](https://www.linkedin.com/in/david-kornel/)
 
+<a href='https://skodjob.io/' target="_blank"><img alt='skodjob' src='https://img.shields.io/badge/skodjob-100000?style=for-the-badge&logo=skodjob&logoColor=black&labelColor=white&color=white'/></a>
+
 ## David Kornel
 As the Principal Software Quality Engineer at Red Hat, my focus is set squarely on the intersection of innovation and reliability within the Kubernetes/OpenShift environments. With a passion for refining and advancing the quality of software, I lead efforts in rigorously testing Kubernetes operators, ensuring they meet our stringent standards for robustness and performance. My approach is deeply rooted in the automation of testing processes, utilizing cutting-edge tools such as Jenkins pipelines, Tekton, and ArgoCD. This not only enhances efficiency but also fosters a culture of continuous improvement and precision in our software development lifecycle.
 
