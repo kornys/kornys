@@ -6,7 +6,7 @@
 As the Principal Software Quality Engineer at Red Hat, my focus is set squarely on the intersection of innovation and reliability within the Kubernetes/OpenShift environments. With a passion for refining and advancing the quality of software, I lead efforts in rigorously testing Kubernetes operators, ensuring they meet our stringent standards for robustness and performance. My approach is deeply rooted in the automation of testing processes, utilizing cutting-edge tools such as Jenkins pipelines, Tekton, and ArgoCD. This not only enhances efficiency but also fosters a culture of continuous improvement and precision in our software development lifecycle.
 
 ## Tech stack 
-![](https://skillicons.dev/icons?i=kubernetes,openshift,ansible,git,docker,github,githubactions,redhat,powershell,windows,prometheus,grafana,java,gradle,maven,selenium,linux,jenkins,bash,md,dotnet,typescript,js&theme=dark&perline=10)
+![](https://skillicons.dev/icons?i=kubernetes,openshift,ansible,git,docker,github,githubactions,redhat,powershell,windows,openstack,prometheus,grafana,java,gradle,maven,selenium,linux,jenkins,bash,md,dotnet,typescript,js&theme=dark&perline=10)
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=kornys&count_private=true&show_icons=true&theme=dracula)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kornys&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
