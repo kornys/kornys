@@ -16,7 +16,8 @@ As the Principal Software Quality Engineer at Red Hat, my focus is set squarely 
 ### Videos
 Date | Title
 -----|-----
-2024-06-07 | [Advanced Deployment and Operations with GitOps solutions](https://youtu.be/GUXq418JeBo?si=ppDgef6LORn7ZWtO)
+2024-06-07 | [Kubernetes DevOps and GitOps in Action: An Autonomous System Approach](https://youtu.be/O7s-uTdqMGY?si=B9vVrjSmFDHCuRrF)
+2024-05-24 | [Advanced Deployment and Operations with GitOps solutions](https://youtu.be/GUXq418JeBo?si=ppDgef6LORn7ZWtO)
 2022-01-29 | [Promote Strimzi to prod with ArgoCd and Tekton](https://www.youtube.com/watch?v=oLAYig0zQgw)
 2021-01-29 | [CI tools](https://www.youtube.com/watch?v=MSzT4G_-Cf8)
 
