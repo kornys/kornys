@@ -7,7 +7,6 @@ As the Senior Principal Software Quality Engineer at Red Hat, my focus is set sq
 ![](https://skillicons.dev/icons?i=kubernetes,openshift,ansible,git,docker,github,githubactions,redhat,powershell,windows,openstack,prometheus,grafana,java,gradle,maven,selenium,linux,jenkins,bash,md,dotnet,typescript,js&theme=dark&perline=10)
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=kornys&count_private=true&show_icons=true&theme=dracula)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kornys&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kornys&theme=dracula&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
