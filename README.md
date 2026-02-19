@@ -6,8 +6,6 @@ As the Senior Principal Software Quality Engineer at Red Hat, my focus is set sq
 ## Tech stack 
 ![](https://skillicons.dev/icons?i=kubernetes,openshift,ansible,git,docker,github,githubactions,redhat,powershell,windows,openstack,prometheus,grafana,java,gradle,maven,selenium,linux,jenkins,bash,md,dotnet,typescript,js&theme=dark&perline=10)
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=kornys&count_private=true&show_icons=true&theme=dracula)
-
 ### Videos
 Date | Title
 -----|-----
